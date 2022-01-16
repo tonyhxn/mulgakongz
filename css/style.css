@@ -1,0 +1,9 @@
+.divider {
+    stroke: none;
+    fill: url(#header-shape-gradient);
+}
+
+#header-shape-gradient {
+    --color-stop:#86fde8;
+    --color-bot: #cec3ff;
+}
